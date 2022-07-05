@@ -1,0 +1,9 @@
+#search{
+    font-size: 24px;
+    border-radius: 8px ;
+    border: 2px solid skyblue;
+}
+body{
+    background-color: rgb(42, 160, 207);
+    color: white;
+}
